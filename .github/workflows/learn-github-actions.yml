@@ -12,3 +12,4 @@ jobs:
     - run: npm install -g bats
     - run: bats -v
     - run: bats -h
+    - run: bats test/test.bats

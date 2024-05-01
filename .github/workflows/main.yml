@@ -1,5 +1,7 @@
 name: Greetings
+run-name: ${{ github.actor }} is learning GitHub Actions
 on:
+- push
 - pull_request_target
 - issues
 jobs:

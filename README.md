@@ -1,2 +1,2 @@
-# githubactions
-to test github actions
+# Githubactions
+This repo contaisn my github actions experiments.

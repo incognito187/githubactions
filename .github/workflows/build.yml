@@ -4,7 +4,7 @@ run-name:   ${{ github.action }} is building Node CI
 on: [push]
 
 jobs:
-build:
+    build:
 
         runs-on: ${{ matrix.os }}
         
@@ -21,9 +21,3 @@ build:
         with:
             node-version: ${{ matrix.node.version}}
         -name: npm install, build and test
-        run: |
-                npm ci
-                npm run bduild --if-present
-                npm test
-        env:
-            CI:true

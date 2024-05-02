@@ -19,7 +19,7 @@ jobs:
         docker system info
   
         permissions:
-        id-token: write
-        attestations: write
-        contents: read # optional, usually required
+          id-token: write
+          attestations: write
+          contents: read # optional, usually required
     

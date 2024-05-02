@@ -20,5 +20,5 @@ jobs:
   permissions:
       id-token: write
       attestations: write
-    contents: read # optional, usually required
+      contents: read # optional, usually required
     

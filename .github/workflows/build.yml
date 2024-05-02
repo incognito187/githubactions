@@ -9,7 +9,7 @@ name: Check all English links
 on:
   workflow_dispatch:
   schedule:
-    - cron: '40 19 * * *' # once a day at 19:40 UTC / 11:40 PST
+    - cron: '00 13 * * *' # once a day at 19:40 UTC / 11:40 PST
 
 # Modifies the default permissions granted to `GITHUB_TOKEN`. This will vary depending on the needs of your workflow. For more information, see "[AUTOTITLE](/actions/using-jobs/assigning-permissions-to-jobs)."
 permissions:

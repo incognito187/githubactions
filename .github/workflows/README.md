@@ -9,7 +9,7 @@ The following GitHub Actions are being developed to demonstarte the application 
 | GitHub Actions | File |Description | Status | 
 | --- | --- |--- |--- |
 | learn-github-actions | learn-github-actions.yml | A GitHub Action that learn-github-actions | [![learn-github-actions](https://github.com/incognito187/githubactions/actions/workflows/learn-github-actions.yml/badge.svg?event=status)](https://github.com/incognito187/githubactions/actions/workflows/learn-github-actions.yml) |
-| Greetings | Main.yml | A simple GitHub Action demonstrating greeting | (https://github.com/incognito187/githubactions/actions/workflows/learn-github-actions.yml/badge.svg?event=status)](https://github.com/incognito187/githubactions/actions/workflows/learn-github-actions.yml)|
+| Greetings | Main.yml | A simple GitHub Action demonstrating greeting | [![learn-github-actions](https://github.com/incognito187/githubactions/actions/workflows/learn-github-actions.yml/badge.svg?event=status)](https://github.com/incognito187/githubactions/actions/workflows/learn-github-actions.yml) |
 
 ## Getting Started
 
